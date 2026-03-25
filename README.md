@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>🚀 Aspiring Full-Stack Developer</h3>
-  <p>I love coding with Laravel, Node.js, and React!</p>
+  <p>I love coding with Laravel, Node.js, Golang and React!</p>
 </div>
 
 <br/>
